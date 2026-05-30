@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervrocess",
+        "uuid": 4887168,
+        "checksum": "xlzmnb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
